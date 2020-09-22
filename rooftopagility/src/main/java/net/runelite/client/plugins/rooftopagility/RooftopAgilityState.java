@@ -2,9 +2,14 @@ package net.runelite.client.plugins.rooftopagility;
 
 public enum RooftopAgilityState
 {
-	FIND_OBSTACLE,
 	ANIMATING,
+	CAST_CAMELOT_TELEPORT,
+	FIND_OBSTACLE,
+	HANDLE_BREAK,
+	HIGH_ALCH,
 	MARK_OF_GRACE,
 	MOVING,
+	PRIFF_PORTAL,
+	RESTOCK_ITEMS,
 	TIMEOUT;
 }

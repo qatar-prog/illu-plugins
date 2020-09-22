@@ -4,17 +4,25 @@ External plugins for OpenOSRS that focus on automation, this is a seperate entit
 
 The purpose of this repository is primarily for my own learning but also to provide open-source examples of automation using plugins. 
 
-My development skills are novice at best so please take all of this with a grain of salt, feel free to reach out to me on discord: illumine#0083 to provide feedback or talk OSRS automation.
+My development skills are novice at best so please take all of this with a grain of salt, feel free to join the discord: https://discord.gg/9uguASn or message me illumine#0083 to provide feedback or talk OSRS automation.
 
 # Use
 
 **Supported plugins:**
 
-Add this repo within OPRS, using:
+You will need to add **two** repositories. Mine and Owain's which is used for break handling.
+
+Mine:
 
 **Github Repository owner:** illumineawake
 
 **Github Repository name:** illu-plugins
+
+Owain's:
+
+**Github Repository owner:** Owain94
+
+**Github Repository name:** OpenOSRS-external-plugins-hosting
 
 **_Unsupported plugins:_**
 
